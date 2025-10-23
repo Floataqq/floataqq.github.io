@@ -38,6 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+repository: Floataqq/floataqq.github.io
 github:
   zip_url: ""
   tar_url: ""
